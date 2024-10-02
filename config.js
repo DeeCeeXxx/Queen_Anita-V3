@@ -54,7 +54,7 @@ global.rpg = {
    potionawal: 1
 }
 
-//auto functioner
+//auto functioners
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.unavailable = true;     
