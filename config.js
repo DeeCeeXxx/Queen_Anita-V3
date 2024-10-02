@@ -13,7 +13,7 @@ global.skizo = 'David Cyril'
 global.casterix = 'DeeCeeXxx'
 //watermark 
 global.packname = '*DAVID CYRIL*'
-global.author = 'QUEEN_ANITA-V1'
+global.author = 'QUEEN_ANITA-V3'
 
 // cpanel 
 global.domain = 'https://' // deeceexxx
@@ -55,7 +55,7 @@ global.rpg = {
 }
 
 //auto functioner
-global.autoTyping = true;                //make true to enable auto typing
+global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.unavailable = true;     
 //to show your real presence  
