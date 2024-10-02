@@ -1,4 +1,4 @@
-//davidthegod
+//davidthegod XD
 
 const fs = require('fs')
 const { color } = require('./lib/myfunc')
