@@ -1,4 +1,4 @@
-//davidcyril.com
+//davidcyril
 
 const fs = require('fs')
 const { color } = require('./lib/myfunc')
