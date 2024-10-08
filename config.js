@@ -1,4 +1,4 @@
-//davidthegod
+//ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀᴠɪᴅ ᴄʏʀɪʟ ᴛᴇᴄʜ™
 
 const fs = require('fs')
 const { color } = require('./lib/myfunc')
