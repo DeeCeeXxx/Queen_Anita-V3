@@ -1,4 +1,4 @@
-//ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀᴠɪᴅ ᴄʏʀɪʟ ᴛᴇᴄʜ™
+//davidthegod
 
 const fs = require('fs')
 const { color } = require('./lib/myfunc')
@@ -68,6 +68,8 @@ global.chatbot = false;
 global.autoreact = false;
 
 global.autobio = false;
+
+global.autoViewStatus = false;
 //_____________//
 // Don't change it
 global.antibot = false
