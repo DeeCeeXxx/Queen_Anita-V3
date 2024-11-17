@@ -1,25 +1,25 @@
-//davidthegod
+//OPTIMUS PRIME
 
 const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '2347043759577'
-global.nomerowner = ["2347043759577"]
+global.owner = '919142556700'
+global.nomerowner = ["919142556700"]
 
 // Apikey 
 
-global.skizo = 'David Cyril'
+global.skizo = 'OPTIMUS PRIME'
 global.casterix = 'DeeCeeXxx'
 //watermark 
-global.packname = '*DAVID CYRIL*'
-global.author = 'QUEEN_ANITA-V3'
+global.packname = '*OPTIMUS*'
+global.author = 'NEMESIS PRIME-V13'
 
 // cpanel 
 global.domain = 'https://' // deeceexxx
 global.apikey2 = 'ptlc' // I love anita
 global.capikey2 = 'ptla' // david x anita 
-global.eggsnya = '15' // The id eggs used if the id is 5, just leave it, don't change it
+global.eggsnya = '5' // The id eggs used if the id is 5, just leave it, don't change it
 global.location = '1' // id location
 
 
@@ -64,7 +64,7 @@ global.available = false;
 // to show always online  
 global.autoreadmessages = false;   
 ///To always read messages
-global.chatbot = false;
+global.chatbot = true;
 global.autoreact = false;
 
 global.welcome = false;
