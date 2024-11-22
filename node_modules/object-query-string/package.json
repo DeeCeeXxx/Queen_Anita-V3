@@ -1,0 +1,31 @@
+{
+  "name": "object-query-string",
+  "version": "1.2.0",
+  "description": "Stringify objects as URL Query Strings, a lightweight mock of jQuery.param without any dependencies!",
+  "author": "ΔO - David Obdržálek <david@deltazero.cz>",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "example": "node lib/example.js",
+    "test": "mocha lib/test",
+    "build": "tsc -b",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "querystring",
+    "query-string",
+    "stringify",
+    "object",
+    "url"
+  ],
+  "repository": "deltazero-cz/node-object-string-query",
+  "devDependencies": {
+    "@types/mocha": "^7.0.1",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "typescript": "^3.8.3"
+  }
+}
