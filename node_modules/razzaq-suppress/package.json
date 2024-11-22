@@ -1,0 +1,22 @@
+{
+  "name": "razzaq-suppress",
+  "version": "1.0.1",
+  "description": "A utility to suppress console.log messages containing specific text",
+  "type": "module",
+  "main": "suppressLog.js",
+  "scripts": {
+    "test": "node suppressLog.js"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "suppress",
+    "filter"
+  ],
+  "author": "Arifi Razzaq",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vrzaq/razzaq-suppress.git"
+  }
+}

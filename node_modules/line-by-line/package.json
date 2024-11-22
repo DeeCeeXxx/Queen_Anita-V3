@@ -1,0 +1,32 @@
+{
+	"author": "Markus Ostertag <mo@mo-its.de>",
+	"contributors": ["Markus von der Wehd <mvdw@mwin.de>"],
+	"name": "line-by-line",
+	"description": "A NodeJS module that helps you reading large text files, line by line, without buffering the files into memory.",
+	"version": "0.1.6",
+	"keywords": [ "line", "file", "reader", "fs" ],
+	"homepage": "https://github.com/Osterjour/line-by-line",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:Osterjour/line-by-line.git"
+	},
+	"main": "line-by-line.js",
+	"dependencies": {
+	},
+	"devDependencies": {
+		"jshint": "2.5.x"
+	},
+	"scripts": {
+		"test": "jshint ."
+	},
+	"optionalDependencies": { },
+	"engines": {
+		"node": ">=4.0.0"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://raw.github.com/Osterjour/line-by-line/master/LICENSE.txt"
+		}
+	]
+}
